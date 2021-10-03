@@ -1,6 +1,6 @@
 # BonBast
 
-Bonbast api php free for develpers
+Bonbast api php free for developers
 
 Web service source code to receive currency prices from BonBast.Com
 
