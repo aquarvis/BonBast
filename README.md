@@ -4,7 +4,7 @@ Bonbast api php free for developers
 
 Web service source code to receive currency prices from BonBast.Com
 
-This source code is written by T.me/Aquarvis
+This source code is written by T.me/Aquarvis & Channel T.me/LegacySource
 
 First upload index.php file in your host
 
